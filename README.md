@@ -64,4 +64,6 @@ WpfPlcMonitor/
 
 
 ### 3. 视频演示
-<video src="./Documentation/Demo.mp4" controls="controls" width="100%"></video>
+
+[![智能监控系统视频演示](./Documentation/Screenshots/历史查询.png)](https://github.com/canbeking/WpfPlcMonitor/raw/main/Documentation/Demo.mp4)
+*(点击上方图片，直接下载或在线播放项目演示视频)*
